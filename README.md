@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ESP RainMaker Switch
 
 This example demonstrates how to build a switch device to be used with ESP RainMaker.
@@ -29,3 +30,6 @@ Toggle State to false.
 ### Resetting the device
 - Press and Hold the Boot button for more than 3 seconds and then release to reset Wi-Fi configuration.
 - Press and Hold the Boot button for more than 10 seconds and then release to reset to factory defaults.
+=======
+# Nexus55
+>>>>>>> f2a37ffb5cdcf5fb74c3f29f595bc5486e5b1217
